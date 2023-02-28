@@ -1,0 +1,7 @@
+C:\Users\Acer\Source\Repos\exame-final\Exame-Final\Exame-Final\bin\Debug\Exame-Final.exe.config
+C:\Users\Acer\Source\Repos\exame-final\Exame-Final\Exame-Final\bin\Debug\Exame-Final.exe
+C:\Users\Acer\Source\Repos\exame-final\Exame-Final\Exame-Final\bin\Debug\Exame-Final.pdb
+C:\Users\Acer\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.csproj.AssemblyReference.cache
+C:\Users\Acer\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.exe
+C:\Users\Acer\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.pdb
