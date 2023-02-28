@@ -10,6 +10,12 @@ namespace Exame_Final
     {
         static void Main(string[] args)
         {
+
+           Equacao equacao1 = new Equacao(1, 2, 3);
+            
+          equacao1.CalcularEquacao();
+
         }
+
     }
 }
