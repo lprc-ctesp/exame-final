@@ -27,7 +27,7 @@ namespace Exame_Final
                 double x2 = (-b - Math.Sqrt(delta)) / (2 * a);
 
                 
-                Console.WriteLine("A equação tem duas raízes reais distintas:");
+                Console.WriteLine("A equação tem duas raízes reais diferentes:");
                 Console.WriteLine("x1 = " + x1);
                 Console.WriteLine("x2 = " + x2);
             }
