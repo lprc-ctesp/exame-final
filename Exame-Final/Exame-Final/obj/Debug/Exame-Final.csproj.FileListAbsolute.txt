@@ -1,0 +1,8 @@
+C:\Users\crisf\Source\Repos\exame-final\Exame-Final\Exame-Final\bin\Debug\Exame-Final.exe.config
+C:\Users\crisf\Source\Repos\exame-final\Exame-Final\Exame-Final\bin\Debug\Exame-Final.exe
+C:\Users\crisf\Source\Repos\exame-final\Exame-Final\Exame-Final\bin\Debug\Exame-Final.pdb
+C:\Users\crisf\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.csproj.AssemblyReference.cache
+C:\Users\crisf\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\crisf\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.csproj.CoreCompileInputs.cache
+C:\Users\crisf\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.exe
+C:\Users\crisf\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.pdb
