@@ -1,0 +1,8 @@
+C:\Users\gonca\Source\Repos\exame-final\Exame-Final\Exame-Final\bin\Debug\Exame-Final.exe.config
+C:\Users\gonca\Source\Repos\exame-final\Exame-Final\Exame-Final\bin\Debug\Exame-Final.exe
+C:\Users\gonca\Source\Repos\exame-final\Exame-Final\Exame-Final\bin\Debug\Exame-Final.pdb
+C:\Users\gonca\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.csproj.AssemblyReference.cache
+C:\Users\gonca\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\gonca\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.csproj.CoreCompileInputs.cache
+C:\Users\gonca\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.exe
+C:\Users\gonca\Source\Repos\exame-final\Exame-Final\Exame-Final\obj\Debug\Exame-Final.pdb
